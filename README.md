@@ -1,2 +1,2 @@
 # Portfolio
- Esse site é de apresentação de sites que desenvolvi.
+ Esse site é de apresentação de trabalhos que desenvolvi.
