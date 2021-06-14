@@ -45,8 +45,8 @@ p{
 }
 .textofooter{
     margin: 0px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 html{
     scroll-behavior:smooth;
