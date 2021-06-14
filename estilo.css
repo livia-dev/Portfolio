@@ -6,7 +6,7 @@
 
 }
 .corPrimaria{
-    background-color: #ba77d4;
+    background-color: #f4e7fa;
 }
 .corSecundaria{
     background-color: #2c3e50;
@@ -45,8 +45,8 @@ p{
 }
 .textofooter{
     margin: 0px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 html{
     scroll-behavior:smooth;
